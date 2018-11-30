@@ -1,0 +1,37 @@
+
+.container {
+	background: url(img/backgr.jpg);
+	background-size: cover;
+	max-width: 1400px;
+	width: 100%;
+	
+}
+
+.list-group {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.logo-txt {
+	font-family: 'Pacifico', cursive;
+	float: right;
+	font-size: 22px;
+
+}
+
+.list-group img {
+	margin-left: 30%;
+}
+
+audio {
+	width: 90%;
+	margin-left: 10px;
+}
+
+.mx-auto img {
+	margin-left: 33%;
+}
+
+.text-center {
+	margin-bottom: 0;
+}

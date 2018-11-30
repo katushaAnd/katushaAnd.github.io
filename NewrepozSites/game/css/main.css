@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  cursor:pointer;
+
+}
+
+
+body {
+  background-image: url('https://demiart.ru/forum/uploads5/post-352707-1272519593.jpg');
+  
+}
+
+#container {
+  display: flex;
+  justify-content:space-around;
+ 
+}
+
+#basket {
+  position: absolute;
+  bottom: 0;
+  left: 0; 
+ 
+}
+#egg {
+  width: 30px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: magenta;
+  margin-top:-100px;
+}
+#egg1 {
+  width: 30px;
+  height: 40px;
+  border-radius: 50%;
+  background-color:cyan;
+  margin-top: -90px;
+}
+#egg2 {
+  width: 30px;
+  height: 40px;
+  border-radius: 50%;
+  background-color:orange;
+  margin-top: -70px;
+}
+
+#egg3 {
+  width: 30px;
+  height: 40px;
+  border-radius: 50%;
+  background-color:red;
+  margin-top: -50px;
+}
+#egg4 {
+  width: 30px;
+  height: 40px;
+  border-radius: 50%;
+  background-color:yellow;
+  margin-top: -60px;
+ 
+}
+
+
+
